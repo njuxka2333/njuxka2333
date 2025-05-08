@@ -8,6 +8,6 @@
 
 📖 Comprehensive undestanding of Machine Learning, applied statistics
 
-🧑‍💻 Good command of python, sgl, tableau,r
+🧑‍💻 Good command of python, SQL, Tableau and R
 
 Contact me:fuxianzhao2022@gmail.com
