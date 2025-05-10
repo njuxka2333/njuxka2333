@@ -10,4 +10,4 @@
 
 🧑‍💻 Good command of python, SQL, Tableau and R
 
-Contact me:fuxianzhao2022@gmail.com
+Contact me: fuxianzhao2022@gmail.com
