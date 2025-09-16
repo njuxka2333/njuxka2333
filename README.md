@@ -1,13 +1,16 @@
-# I AM Fuxian Zhao 👋
+# I AM Fuxian (Morgan) Zhao 👋
 
-🏫 A forth-year student from Nanjing University,China
+🏫 B.Sc. in Biology from Nanjing University  
+📚 M.Sc. in Data-Driven Modeling at HKUST  
 
-🙋 A pasionate data analyst who is intrested in exploring business insights through data driven methods
+🔬 Research experience in DanQ for plant genomes  
+🧬 Genome-wide Z-RNA prediction using deep learning  
 
-🏢 Data analysis internships in TAL Inc. and Nio lnc.
+🎓 Participant in Imperial College London Data Science Summer School  
 
-📖 Comprehensive undestanding of Machine Learning, applied statistics
+🧑‍💻 Skilled in Python, R and bioinformatics tools  
 
-🧑‍💻 Good command of python, SQL, Tableau and R
+🎯 Seeking PhD opportunities in bioinformatics and computational biology  
 
-Contact me: 211505013@smail.nju.edu.cn
+📫 Contact me: fzhaoai@connect.ust.hk
+
