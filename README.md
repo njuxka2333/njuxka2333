@@ -1,6 +1,6 @@
 # I AM Fuxian (Morgan) Zhao 👋
 
-🏫 B.Sc. in Biology from Nanjing University and M.Sc. in Data-Driven Modeling at HKUST    
+🏫 M.Sc. in Data-Driven Modeling at HKUST and B.Sc. in Biology from Nanjing University      
 
 🧑‍💻 Skilled in Python, R and bioinformatics tools  
 
