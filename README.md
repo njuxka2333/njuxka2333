@@ -6,8 +6,6 @@
 
 🏫 B.Sc. in Biology from Nanjing University      
 
-🧑‍💻 Skilled in Python, R and bioinformatics tools  
-
 🎯 Seeking PhD opportunities in Computer Vision
 
 📫 Contact me: fzhaoai@connect.ust.hk
