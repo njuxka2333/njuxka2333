@@ -4,7 +4,7 @@
 
 🏫 M.Sc. in Data-Driven Modeling at HKUST & B.Sc. in Biology from Nanjing University
 
-⚒️ Python, PyTorch, nnU-Net, U-Net, Cellpose, TensorBoard, Hugging Face Transformers, SAM (Segment Anything Model), CLIP, DINOv
+⚒️ Python, PyTorch, nnU-Net, U-Net, Cellpose, TensorBoard, Hugging Face Transformers, SAM
 
 🎯 Seeking PhD opportunities in Computer Vision
 
